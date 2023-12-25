@@ -7,16 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/@zackyahia20" target="blank"><img src="https://img.shields.io/twitter/follow/@zackyahia20?logo=twitter&style=for-the-badge" alt="@zackyahia20" /></a> </p>
 
-- 💬 Ask me about **javaScript, Oracle apex, Oracle, SQL, PL/SQL APIs**
+- 💬 Ask me about **javaScript, oracle apex, PL/SQL, SQL, PL/SQL APIs**
 
 - 📫 How to reach me **zakariaeightyahia@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18zC7ptACXjYY1mo8NYlPqKedXki9yewG/view?usp=sharing](https://drive.google.com/file/d/18zC7ptACXjYY1mo8NYlPqKedXki9yewG/view?usp=sharing)
+- 📄 Know about my experiences [https://rb.gy/hacx3b](https://rb.gy/hacx3b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@zackyahia20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zackyahia20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zakariayahia20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/zakariayahia20" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zakariayahia20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakariayahia20" height="30" width="40" /></a>
 <a href="https://instagram.com/zackyahia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zackyahia" height="30" width="40" /></a>
 </p>
 
