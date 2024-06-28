@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakaria ait yahia</h1>
-<h3 align="center">I'm oracle software developer, experienced with many technologies such as oracle pl/sql oracle apex and React.js</h3>
+<h3 align="center">I'm Oracle Software Developer, experienced with Technologies such as Oracle PL/SQL Oracle Apex and Oracle Apex</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"//>
 
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@zackyahia20" target="blank"><img src="https://img.shields.io/twitter/follow/@zackyahia20?logo=twitter&style=for-the-badge" alt="@zackyahia20" /></a> </p>
 
-- 💬 Ask me about **javaScript, oracle apex, PL/SQL, SQL**
+- 💬 Ask me about **JavaScript, Oracle Apex, PL/SQL, SQL**
 
 - 📫 How to reach me **zakariaeightyahia@gmail.com**
 
