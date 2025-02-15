@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakaria ait yahia</h1>
-<h3 align="center">I'm Oracle Software Developer, experienced with Technologies such as Oracle PL/SQL Oracle Apex and Oracle Apex</h3>
+<h3 align="center">I'm Oracle Software Developer, experienced with Technologies such as Oracle PL/SQL Oracle Apex</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"//>
 
 
